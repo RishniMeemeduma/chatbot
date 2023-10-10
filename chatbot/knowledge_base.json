@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hi there !"
+    },
+    {
+      "question": "How have you been?",
+      "answer": "I have been well, Thank you. How about you ?"
+    },
+    {
+      "question": "Never been better",
+      "answer": "Good"
+    },
+    {
+      "question": "if I am a barber and there are no bsrbers in my village and who is going to cut my hair?",
+      "answer": "This is a rehtorical quetion it does not have an answer"
+    },
+    {
+      "question": "What is the meaning of life ",
+      "answer": "According Rene Decartes life is what you think you are"
+    },
+    {
+      "question": "How do you define life?",
+      "answer": "what is life ?"
+    },
+    {
+      "question": "what is life ?",
+      "answer": "it's what you think you are"
+    },
+    {
+      "question": "Good",
+      "answer": "Nice"
+    }
+  ]
+}
